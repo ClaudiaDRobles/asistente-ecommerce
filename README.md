@@ -83,3 +83,16 @@ El modelo GPT funciona como cerebro inteligente del asistente:
 **Pregunta: ¿Una laptop ligera con buena batería para clases?**
 - 👉 Respuesta: “La HP Pavilion x360 es una excelente opción por su peso liviano y autonomía de 9 horas.”
 
+  ---
+
+  ✨ Contribuciones y mejoras
+- Este es un proyecto base que puede crecer. Puedes añadir:
+
+- Análisis de sentimiento desde reseñas
+
+- Clasificación automática de productos
+
+- Base de datos persistente en lugar de CSV
+
+- Despliegue en la nube (Streamlit Cloud, Vercel, etc.)
+
