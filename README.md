@@ -36,3 +36,19 @@ El modelo GPT funciona como cerebro inteligente del asistente:
 - Compara productos del CSV con lógica contextual
 
 - Genera explicaciones humanas sobre por qué recomienda ciertos modelos
+
+---
+
+### 🛠️ Tecnologías utilizadas
+
+- Python 3.10
+
+- Streamlit (interfaz web)
+
+- Pandas (procesamiento de datos)
+
+- OpenAI API (modelo GPT)
+
+- request y BeautifulSoup (para scraping)
+
+- dotenv (manejo seguro de API keys)
