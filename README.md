@@ -52,3 +52,34 @@ El modelo GPT funciona como cerebro inteligente del asistente:
 - request y BeautifulSoup (para scraping)
 
 - dotenv (manejo seguro de API keys)
+
+
+---
+### 📦 Cómo ejecutar
+
+# Clonar el repositorio
+git clone https://github.com/tu_usuario/asistente-ecommerce.git
+cd asistente-ecommerce
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Crear archivo .env
+touch .env
+# Añadir tu clave
+echo "OPENAI_API_KEY=sk-..." >> .env
+
+# Ejecutar app
+streamlit run app.py
+
+
+---
+
+### 🧪 Ejemplos de uso
+
+*** Pregunta: ¿Cuál es la mejor laptop para arquitectura? ***
+👉 Respuesta: “Te recomiendo la Acer Nitro 5 por su buena tarjeta gráfica, RAM expandible y excelente rendimiento con software como AutoCAD.”
+
+*** Pregunta: ¿Una laptop ligera con buena batería para clases? ***
+👉 Respuesta: “La HP Pavilion x360 es una excelente opción por su peso liviano y autonomía de 9 horas.”
+
