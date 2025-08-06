@@ -25,7 +25,7 @@ El asistente utiliza la **API de OpenAI (GPT)** para interpretar la intención d
 
 ---
 
-###🧠 ¿Qué rol cumple el LLM?
+### 🧠 ¿Qué rol cumple el LLM?
 
 El modelo GPT funciona como cerebro inteligente del asistente:
 
