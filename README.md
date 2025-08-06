@@ -78,8 +78,8 @@ El modelo GPT funciona como cerebro inteligente del asistente:
 ### 🧪 Ejemplos de uso
 
 **Pregunta: ¿Cuál es la mejor laptop para arquitectura?**
-👉 Respuesta: “Te recomiendo la Acer Nitro 5 por su buena tarjeta gráfica, RAM expandible y excelente rendimiento con software como AutoCAD.”
+- 👉 Respuesta: “Te recomiendo la Acer Nitro 5 por su buena tarjeta gráfica, RAM expandible y excelente rendimiento con software como AutoCAD.”
 
 **Pregunta: ¿Una laptop ligera con buena batería para clases?**
-👉 Respuesta: “La HP Pavilion x360 es una excelente opción por su peso liviano y autonomía de 9 horas.”
+- 👉 Respuesta: “La HP Pavilion x360 es una excelente opción por su peso liviano y autonomía de 9 horas.”
 
