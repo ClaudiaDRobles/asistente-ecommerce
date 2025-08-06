@@ -58,19 +58,19 @@ El modelo GPT funciona como cerebro inteligente del asistente:
 ### 📦 Cómo ejecutar
 
 **Clonar el repositorio**
-git clone https://github.com/tu_usuario/asistente-ecommerce.git
-cd asistente-ecommerce
+- git clone https://github.com/tu_usuario/asistente-ecommerce.git
+- cd asistente-ecommerce
 
 **Instalar dependencias**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **Crear archivo .env**
-touch .env
+- touch .env
 **Añadir tu clave**
-echo "OPENAI_API_KEY=sk-..." >> .env
+- echo "OPENAI_API_KEY=sk-..." >> .env
 
 **Ejecutar app**
-streamlit run app.py
+- streamlit run app.py
 
 
 ---
