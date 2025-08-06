@@ -1,4 +1,5 @@
-🛍️ Asistente de Compras de Laptops
+<h1 align="left">🛍️ Asistente de Compras de Laptops</h1>
+
 Un asistente conversacional inteligente que recomienda laptops según tus necesidades (diseño gráfico, juegos, trabajo, estudio, etc.), combinando scraping de productos reales, análisis con Pandas y recomendaciones potenciadas por un modelo LLM de OpenAI.
 
 🚀 ¿Cómo funciona?
