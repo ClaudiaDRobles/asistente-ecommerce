@@ -4,7 +4,7 @@
 
 ---
 
- 🚀 **¿Cómo funciona?**
+  ### 🚀¿Cómo funciona?
 
 
 ### 🛒 Scraping de productos reales  
