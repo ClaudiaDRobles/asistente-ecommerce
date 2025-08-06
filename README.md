@@ -4,13 +4,13 @@
 
 <h1 align="left">🚀 ¿Cómo funciona?</h1>
 
-Scraping de productos reales
+<p align="left">Scraping de productos reales</p>
 Se extraen datos desde tiendas online y se guardan en un archivo CSV con información como nombre, precio, marca, uso recomendado, etc.
 
-Limpieza de datos
+<p align="left">Limpieza de datos</p>
 Un script (limpieza.py) procesa y estandariza los datos con Pandas, eliminando inconsistencias.
 
-Asistente conversacional
+<p align="left">Asistente conversacional</p>  
 Una app construida con Streamlit (app.py) permite que el usuario formule preguntas como:
 
 “¿Cuál es la mejor laptop para diseño gráfico?”
