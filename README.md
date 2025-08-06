@@ -2,7 +2,11 @@
 
 <p align="left">Un asistente conversacional inteligente que recomienda laptops según tus necesidades (diseño gráfico, juegos, trabajo, estudio, etc.), combinando scraping de productos reales, análisis con Pandas y recomendaciones potenciadas por un modelo LLM de OpenAI.</p>
 
-## 🚀 ¿Cómo funciona?
+---
+
+ 🚀 **¿Cómo funciona?**
+
+---
 
 ### 🛒 Scraping de productos reales  
 Se extraen datos desde tiendas online y se guardan en un archivo CSV con información como nombre, precio, marca, uso recomendado, etc.
