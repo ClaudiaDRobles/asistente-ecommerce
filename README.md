@@ -25,6 +25,15 @@ El asistente utiliza la **API de OpenAI (GPT)** para interpretar la intención d
 
 ---
 
+### 📊 Diagrama del Flujo
+
+El flujo completo del sistema es el siguiente:
+
+![Diagrama de flujo](Asistente.png)
+
+
+---
+
 ### 🧠 ¿Qué rol cumple el LLM?
 
 El modelo GPT funciona como cerebro inteligente del asistente:
