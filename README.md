@@ -6,7 +6,6 @@
 
  🚀 **¿Cómo funciona?**
 
----
 
 ### 🛒 Scraping de productos reales  
 Se extraen datos desde tiendas online y se guardan en un archivo CSV con información como nombre, precio, marca, uso recomendado, etc.
