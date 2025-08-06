@@ -21,3 +21,18 @@ Una app construida con **Streamlit** (`app.py`) permite que el usuario formule p
 
 ### 🧠 Motor de recomendación (LLM)  
 El asistente utiliza la **API de OpenAI (GPT)** para interpretar la intención del usuario, filtrar el CSV y generar una recomendación precisa.
+
+
+---
+
+###🧠 ¿Qué rol cumple el LLM?
+
+El modelo GPT funciona como cerebro inteligente del asistente:
+
+- Interpreta lenguaje natural del usuario
+
+- Entiende criterios complejos como “calidad-precio” o “para edición de video”
+
+- Compara productos del CSV con lógica contextual
+
+- Genera explicaciones humanas sobre por qué recomienda ciertos modelos
