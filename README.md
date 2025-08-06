@@ -7,6 +7,7 @@
 <p align="left">Scraping de productos reales</p>
 Se extraen datos desde tiendas online y se guardan en un archivo CSV con información como nombre, precio, marca, uso recomendado, etc.
 
+
 <p align="left">Limpieza de datos</p>
 Un script (limpieza.py) procesa y estandariza los datos con Pandas, eliminando inconsistencias.
 
