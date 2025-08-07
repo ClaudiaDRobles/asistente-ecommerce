@@ -76,7 +76,7 @@ El modelo GPT funciona como cerebro inteligente del asistente:
 **Crear archivo .env**
 - touch .env
 **Añadir tu clave**
-- echo "OPENAI_API_KEY=sk-..." >> .env
+- echo "OPENAI_API_KEY="..." >> .env
 
 **Ejecutar app**
 - streamlit run app.py
